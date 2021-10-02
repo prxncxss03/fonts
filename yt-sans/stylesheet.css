@@ -6,7 +6,7 @@
     font-family: 'youtube_sanslight';
     src: url('youtube-sans-light-webfont.woff2') format('woff2'),
          url('youtube-sans-light-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: light;
     font-style: normal;
 
 }
@@ -30,7 +30,7 @@
     font-family: 'youtube_sansbold';
     src: url('youtube-sans-bold-webfont.woff2') format('woff2'),
          url('youtube-sans-bold-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
 
 }
